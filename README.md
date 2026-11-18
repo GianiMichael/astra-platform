@@ -107,9 +107,6 @@ Version 2.0 is a full redesign of the interface plus several new modules:
 **Dashboard: Pipeline Overview**
 ![Dashboard V1](screenshots/v1/dashboard.png)
 
-**Inventory Report**
-![Inventory](screenshots/v1/inventory.png)
-
 **Geographic Circuit Map**
 ![Map](screenshots/v1/map.png)
 
