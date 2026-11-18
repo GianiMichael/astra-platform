@@ -110,22 +110,17 @@ Version 2.0 is a full redesign of the interface plus several new modules:
 **Inventory Report**
 ![Inventory](screenshots/v1/inventory.png)
 
-**Sales Funnel**
-![Funnel](screenshots/v1/funnel.png)
-
 **Geographic Circuit Map**
 ![Map](screenshots/v1/map.png)
 
 ---
 
-## Relevance to Clean Energy and Complex Sales Environments
+## What This Project Demonstrates
 
-The operational challenges ASTRA solves map directly to enterprise clean energy procurement:
+- **Taking a product from zero to production:** defined the problem, designed the architecture and user flows, wrote the requirements, and ran delivery with an external engineering team through two major versions
+- **Change management and adoption:** migrated each client's full circuit inventory, built training, and ran adoption sessions until teams moved off spreadsheets and carrier portals, reaching 100% client retention
+- **Mapping messy enterprise workflows to software:** turned contracts, quotes, tickets, and inventory spread across 5 to 10+ carriers per client into one system with role based client views
+- **Applying AI where it earns its place:** added an assistant that answers operational questions in plain language, scoped to the data each user is allowed to see
+- **Working across technical and commercial audiences:** translated client needs into engineering scope, then presented build decisions and contract terms to leadership
 
-- Multi-carrier circuit management → multi-supplier energy contract management
-- Contract expiration tracking → PPA renewal and term monitoring
-- Spend by carrier → energy spend by provider or technology type
-- Geographic asset mapping → site-level solar or storage asset tracking
-- Client portal with real-time status → customer success and transparency in long-cycle energy deals
-
-Managing complexity across multiple suppliers, contracts, and clients at scale is the same problem regardless of whether the product is bandwidth or megawatts.
+The same pattern applies to any multi supplier, contract heavy environment, from telecom to energy to enterprise AI deployments: understand the workflow, design the system around it, and drive adoption until it sticks.
